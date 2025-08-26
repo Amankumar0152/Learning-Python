@@ -1,2 +1,2 @@
-💻 Expanding skills into Python | Learning the basics to advanced concepts  
-⚡ Interested in automation, web development (Flask/Django), and data handling
+From Java ☕ & JavaScript ⚡ → into Python 🐍  
+📚 Learning step by step | 🔨 Building small projects as I go
