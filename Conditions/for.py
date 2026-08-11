@@ -1,7 +1,7 @@
-data = [2, 'Aman', 4.5, 8, 'Pirates', 'Spring Boot']
+# data = [2, 'Aman', 4.5, 8, 'Pirates', 'Spring Boot']
 
-for value in range(10):
-    print(value)
+# for value in data:
+#     print(value)
 
 
 #------------------------------
@@ -11,3 +11,11 @@ for value in range(10):
 #     print("Data: ",data[i])
 #     i+=1
 
+
+#---------------------------
+data = [2, 'Aman', 4.5, 8, 'Pirates', 'Spring Boot']
+
+for value in range(10):
+    if value == 5:
+        continue
+    print(value)
